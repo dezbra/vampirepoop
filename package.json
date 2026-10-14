@@ -36,7 +36,7 @@
     "globals": "17.7.0",
     "phaser": "4.2.1",
     "playwright": "1.62.1",
-    "prettier": "3.9.9",
+    "prettier": "3.9.10",
     "typescript": "6.0.3",
     "typescript-eslint": "8.70.1",
     "vite": "8.3.4",
